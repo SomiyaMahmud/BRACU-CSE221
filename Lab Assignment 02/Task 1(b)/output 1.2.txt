@@ -1,0 +1,12 @@
+# Output 1:
+1 2
+
+
+# Output 2:
+1 5
+
+# Output 3:
+IMPOSSIBLE
+
+# Output 4:
+IMPOSSIBLE

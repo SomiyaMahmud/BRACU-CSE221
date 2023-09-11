@@ -1,0 +1,14 @@
+#Output 1:
+No
+
+#Output 2:
+Yes
+
+#Output 3:
+No
+
+#Output 4:
+No
+
+#Output 5:
+Yes

@@ -1,0 +1,10 @@
+#Output 1:
+0
+
+
+#Output 2:
+10
+
+
+#Output 3:
+11

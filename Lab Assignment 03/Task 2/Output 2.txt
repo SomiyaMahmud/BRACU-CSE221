@@ -1,0 +1,10 @@
+#Output 1:
+73
+
+
+#Output 2:
+110
+
+
+#Output 3:
+63

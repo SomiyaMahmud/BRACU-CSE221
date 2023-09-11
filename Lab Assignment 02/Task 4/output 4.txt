@@ -1,0 +1,14 @@
+# Output 1:
+13
+
+
+# Output 2:
+15
+
+
+# Output 3:
+9
+
+
+#Output 4:
+10

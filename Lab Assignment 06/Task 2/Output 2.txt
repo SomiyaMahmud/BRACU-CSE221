@@ -1,0 +1,12 @@
+#Output 1:
+Time 5
+Node 3
+
+
+#Output 2:
+Impossible
+
+
+#Output 3:
+Time 8
+Node 2
