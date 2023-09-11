@@ -7,10 +7,10 @@ Solutions of the lab problems of CSE221 offered by BRAC University. There are ot
    <li>Time Complexity</li>
    <li>Asymptotic Time Complexity</li>
    <li>Searching</li>
-  <ul></ul>
-      <li>Linear Search</li>
-      <li>Binary Search</li>
-      <li>Ternary Search</li>
+  <ul>
+      <li>     Linear Search</li>
+      <li>     Binary Search</li>
+      <li>     Ternary Search</li>
   </ul>
   <li>Sorting</li>
   <ul>
